@@ -32,10 +32,9 @@ Navegue em águas ainda mais profundas! Logo você vai baixar para seu Android o
   
 ## Redes Socials
 
-<a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221695448-b090f1fb-abf8-40d0-9f37-10e720f8262b.png" width="36" height="36" alt="Facebook"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221695485-232635b4-e8db-4e1e-bc7c-0f34c1975c71.png" width="36" height="36" alt="Twitter"/></a>
+<a href="https://www.facebook.com/navegarmais" target="_blank" rel=""><img src="https://user-images.githubusercontent.com/108233457/221695448-b090f1fb-abf8-40d0-9f37-10e720f8262b.png" width="36" height="36" alt="Facebook"/></a>
+<a href="https://twitter.com/OerTecnologia" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221695485-232635b4-e8db-4e1e-bc7c-0f34c1975c71.png" width="36" height="36" alt="Twitter"/></a>
+<a href="https://www.instagram.com/navegarmais/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221695589-114cc2e3-8b40-4c07-b987-9e8cc66992d3.png" width="36" height="36" alt="Instagram"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221695526-e02351d3-f9c1-44c7-a494-9a88bba4d1a0.png" width="36" height="36" alt="Linkedin"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221695589-114cc2e3-8b40-4c07-b987-9e8cc66992d3.png" width="36" height="36" alt="Instagram"/></a>
-
 
 
