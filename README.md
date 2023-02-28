@@ -1,5 +1,6 @@
 # ⛵ Projeto Navegar+ 🚤
 
+
 ### Projeto  Navegar+ <br>
 Navegue em águas ainda mais profundas! Logo você vai baixar para seu Android ou IOs o App que vai mudar sua maneira de navegar! O nosso sonho é conectar pessoas interessadas em turismo e atividades náuticas com a embarcação ideal para cada finalidade: turismo, práticas desportivas como pesca, caça submarina, acesso à locais para prática de outras atividades como stand-up paddle, kitesurf, festas e muito mais!
   Além da diversão o Navegar+ vem com a intenção de ajudar ambientalistas e estudantes em suas atividades rotineiras. Afinal, uma das nossas maiores preocupações é a de garantir o respeito à natureza.
@@ -21,12 +22,7 @@ Navegue em águas ainda mais profundas! Logo você vai baixar para seu Android o
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://docs.flutter.dev" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221665501-340207db-dd1c-4c81-887e-12750e8a6653.png" width="36" height="36" alt="Flutter"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221664845-ee7473ab-f834-4b03-864b-2163fd564cba.png" width="36" height="36" alt="NPM"/></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221665206-84201185-c587-4111-b152-eaa7fdd817b6.png" width="36" height="36" alt="React"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221713640-e4bb5933-1a2e-405b-bfad-649e64c293da.png" width="36" height="36" alt="Angular"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221664646-bfc83acb-bc33-4528-b27d-b353939efaa3.png" width="36" height="36" alt="CSS3"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221688214-68418f85-8f73-4881-85a8-e7e9039ba075.png" width="36" height="36" alt="Linux"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/108233457/221665806-1f0fc6e6-7184-4ab0-a6e0-f7ce57cb9b2a.png" width="36" height="36" alt="Ubuntu"/></a>
