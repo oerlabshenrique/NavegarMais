@@ -7,7 +7,7 @@ Navegue em águas ainda mais profundas! Logo você vai baixar para seu Android o
 ##
 
 
-    Projeto: Navegar+<br>
+    Projeto: Navegar+
     URL: https://navegarmais.com.br/ 
     
     Autor: OER Tecnologia 
